@@ -1,2 +1,3 @@
 # InternLM_learning
-https://cguue83gpz.feishu.cn/docx/XHDAdScQVobaGIxqQYlcvTGdnJf
+教程飞书地址：
+    https://cguue83gpz.feishu.cn/docx/XHDAdScQVobaGIxqQYlcvTGdnJf
